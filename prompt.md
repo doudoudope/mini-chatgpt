@@ -104,6 +104,33 @@ Each milestone must be small, testable, and self-contained.
 
 ---
 
+## Phase 6.5 — MVP to Production Evolution
+
+We have finished the MVP.
+
+Help me evolve this system from MVP to production level.
+
+Please analyze it layer by layer:
+
+API layer
+Database layer
+Async processing / queue layer
+Caching layer
+Reliability and failure handling
+Observability
+Security and abuse protection
+Deployment and scaling
+
+For each layer, explain:
+
+What we have in the MVP
+What limitation it has
+What production version should use
+Whether I should implement it now or only document it
+What tradeoff I should explain in code review
+
+Optimize for a 3-hour coding interview. Do not suggest unnecessary infrastructure.
+
 ## Phase 7 — Architecture diagrams
 
 ```
